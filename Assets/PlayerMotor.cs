@@ -9,6 +9,7 @@ public class PlayerMotor : MonoBehaviour
     Transform target;       //Target to follow
     NavMeshAgent agent;     //Reference of agent
     
+    //Test Comments
 
     // Start is called before the first frame update
     void Start()
